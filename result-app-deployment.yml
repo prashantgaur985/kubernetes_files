@@ -15,7 +15,7 @@ spec:
     metadata:
       name: result-app-pod
       labels:
-        name: voting-app
+        name: result-app
     spec:
       containers:
         - name: result-app
